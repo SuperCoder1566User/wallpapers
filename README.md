@@ -9,3 +9,4 @@
 # RUNNING IT
 - Add Slideshow.py to startup (Windows + R then type shell:startup) (Optional)
 - Run Slideshow-Fast.py if you want to view your wallpapers
+## THIS IS THE WRONG BRANCH GO TO OTHER ONE ##
